@@ -1,0 +1,4 @@
+INSERT INTO product ( AVAILABLE, BRAND, CATEGORY, DESC, NAME, PRICE, QUANTITY, RELEASE_DATE) VALUES (True, 'Toyota', 'Sedan', 'Reliable and fuel-efficient midsize sedan with advanced safety features', 'Camry LE', 25999.99, 12, '2024-03-15');
+INSERT INTO product ( AVAILABLE, BRAND, CATEGORY, DESC, NAME, PRICE, QUANTITY, RELEASE_DATE) VALUES ( True, 'Ford', 'Truck', 'Powerful full-size pickup truck with best-in-class towing capacity', 'F-150 XLT', 39995.00, 8, '2024-02-01');
+INSERT INTO product ( AVAILABLE, BRAND, CATEGORY, DESC, NAME, PRICE, QUANTITY, RELEASE_DATE) VALUES ( False, 'Tesla', 'Electric', 'Long-range electric SUV with autopilot capabilities and falcon-wing doors', 'Model X', 89990.00, 0, '2023-11-30');
+INSERT INTO product ( AVAILABLE, BRAND, CATEGORY, DESC, NAME, PRICE, QUANTITY, RELEASE_DATE) VALUES ( True, 'Honda', 'Compact', 'Sporty and efficient hatchback with versatile cargo space', 'Civic Sport', 23950.00, 15, '2024-01-10');
